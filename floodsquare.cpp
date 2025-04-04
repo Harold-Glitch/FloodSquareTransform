@@ -5,7 +5,7 @@
  
   Concept, algorithm and original code created by Benoit Bottemanne.
   Copyright (c) 2005 All Rights Reserved
-  v@xvi.mx
+  harold.glitch@gmail.com
   
   This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, 
   either express or implied. Please contact the author for the specific rights and limitations.
