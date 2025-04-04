@@ -12,7 +12,7 @@
  
     Simply compile :
       cl -c -GX floodsquare.cpp 
-	  g++ -c floodsquare.cpp 
+	  g++ -c floodsquare.cpp
  
   Written for clarity & speed.
   Assumes long is 32 bit quantity.
