@@ -364,7 +364,7 @@ unsigned char *CFloodSquare::Create(uint32_t ulDataSize)
 
 	memset(_pucTransform, 0x00, _ulSquareSize) ;
 
-	// Allocate pixel memory array (already known)
+	// Allocate pixel memory array (already known pixel)
 	_pucMemory = new unsigned char [_ulSquareSize] ;
 	
 	if(0 == _pucMemory)

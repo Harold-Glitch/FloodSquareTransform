@@ -63,7 +63,7 @@ void floodsquare_encrypt(std::string fnIn, std::string fnOut, std::string sKey)
 
     read_binary_file(fnIn, &idata, &isize);
 
-    floodsquare.Encrypt(idata, isize, sKey, &edata, &esize, CFloodSquare::evSaltNone, true);
+    floodsquare.Encrypt(idata, isize, sKey, &edata, &esize, CFloodSquare::evSaltNone);
    
     write_binary_file(fnOut, edata, esize);
 }
